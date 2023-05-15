@@ -1,0 +1,5 @@
+<launch>
+  <!-- my_package launch file -->
+  <node pkg="kinematics_basic_concepts" type="planar_end_effector_mover.py" name="planar_EE_mover"  output="screen">
+  </node>
+</launch>

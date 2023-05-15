@@ -1,0 +1,5 @@
+<launch>
+  <!-- my_package launch file -->
+  <node pkg="kinematics_basic_concepts" type="circular_motion_ee.py" name="circular_motion_ee"  output="screen">
+  </node>
+</launch>
